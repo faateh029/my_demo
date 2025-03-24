@@ -1,4 +1,4 @@
 # my_demo
 This is my first git repository
 <br> 
-Author - Faateh Ameen 
+Author - Faateh Ameen butt  
